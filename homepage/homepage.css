@@ -1,0 +1,46 @@
+body {
+	
+	height: 100%;
+	width: 100%;
+	background-image: url("./assets/cle.png");
+	background-size: 100%;
+
+}
+
+#header {
+	font-family: 'Source Code Pro', monospace;
+	font-size: 40px;
+	color: white;
+}
+
+#headerCont {
+	
+	font-family: 'Source Code Pro', monospace;
+	font-size: 20px;
+	color: white;
+
+}
+
+.aboutMe {
+
+	margin-top: 3%;
+	color: black;
+	opacity: 5%;
+}
+
+.panel {
+	
+	opacity: 5%;
+}
+
+.panel-body {
+
+	opacity: 5%;
+}
+
+.technologies {
+}
+
+#github {
+	margin-right: 1%;
+}
